@@ -231,6 +231,8 @@
     </tbody>
 </table>
 
+<a target="_blank" href="https://lensgo.ai/?via=new">Click here to get 100 credits when you create your account on LensGo AI!</a>
+
 <p>This comparative view highlights that pricing depends on complexity of features and the visual output provided. DALL·E 3 and Runway Gen-2 are ideal candidates for highly technical and detailed outputs, while Leonardo AI and LensGo offer attractive affordable alternatives.</p>
 
 <h3>Best AI Image Generator for Beginners vs Professionals</h3>
@@ -244,6 +246,13 @@
 
 <p>Ultimately, the best solution will depend on your specific project requirements and your level of expertise: beginners should opt for platforms focused on ease, affordability, and intuitiveness, while professionals will benefit more from detail-oriented, high-quality outputs offered by sophisticated AI image generators.</p>
 <h2>DALL·E 3 by OpenAI: Rich Visual Styles and Complex Image Generation</h2>
+
+<img src="https://miro.medium.com/v2/resize:fit:2000/0*Sqx4bm3M1Zt8vrz6"
+  alt="Dall E 3"
+  width="20%"
+/>
+
+<a target="_blank" href="https://lensgo.ai/?via=new">👉Click here to get 100 credits when you create your account on LensGo AI!</a>
 
 <p>OpenAI has recently pushed the boundaries of creative AI tools with DALL·E 3, a next-generation model designed specifically for complex image generation. Launched as an upgrade to its already impressive predecessor, this latest iteration has the unique ability to comprehend intricate textual descriptions and convert them into visually compelling images. In a direct comparison against similar products like Midjourney, which typically excels at detailed artistic representations, DALL·E 3 stands apart due to its advanced interpretation of context and nuance. With nearly twice the accuracy in rendering complex instructions compared to previous models, DALL·E 3 is poised to become an essential tool for both artists and businesses seeking high-quality visual content.</p>
 
@@ -274,3 +283,4 @@
 </ul>
 
 <p>This advanced flexibility empowers creators, marketing specialists, and educators alike by facilitating visually rich storytelling. Compared to dedicated tools such as Midjourney, which is efficient yet focused mostly towards artistic niche outputs, DALL·E 3 encompasses a broader creative spectrum, making it a powerful choice in a diverse market.</p>
+<a target="_blank" href="https://lensgo.ai/?via=new">👉Click here to get 100 credits when you create your account on LensGo AI!</a>
